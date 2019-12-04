@@ -1,12 +1,12 @@
 body {
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Solway', serif;
     font-size: 18px;
     line-height: 26px;
     background-color: #fff;
 }
 
 .nameplate {
-    font-family: 'Source Sans Pro';
+    font-family: 'Solway', serif;
     font-size: 48px;
     margin: 50px 0 50px 0;
     text-align: center;
@@ -79,13 +79,12 @@ li-selection.selectednav {
     padding: 5px;
     width: 200px;
     height: 150px;
-    margin-top: 10px;
+    margin-top: auto;
 
     align-items: center;
     justify-content: center;
 
     color: white;
-    font-weight: bold;
     text-align: center;
     overflow-wrap: break-word;
 }
