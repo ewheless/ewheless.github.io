@@ -39,7 +39,8 @@ li-selection.selectednav {
     padding-right: 100px;
     padding-left: 100px;
     margin: 20px auto;
-    justify-content: right;
+    text-transform: none;
+    text-align: left;
 }
 
 #copyright {
